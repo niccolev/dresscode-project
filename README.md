@@ -12,13 +12,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
                                     GITHUB:
                                     https://github.com/niccolev/dresscode-project
 
-<!-- @@@@@@@@@@@@@@@@@@@@@@@@@@@@ DJANGO ADMIN CREDS @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ -->
+<!-- @@@@@@@@@@@@@@@@@@@@@@@@@@@@ DJANGO ADMIN @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ -->
 
                             http://127.0.0.1:8000/admin/
 
-                                ADMIN CREDENTIALS:
-                                user(email): nicci@mail.com
-                                pwd: 123456
+                                
+                              
 
 <!-- @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ -->
 
